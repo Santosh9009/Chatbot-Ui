@@ -2,6 +2,11 @@
 
 A modern, dark-themed chatbot interface built with Next.js that connects to a Python FastAPI backend powered by Google Gemini AI.
 
+## 🚀 Live Deployment
+
+- **Frontend**: https://chatbot-lime-xi.vercel.app/
+- **Backend API**: https://intern-2025-q10-production.up.railway.app
+
 ## Features
 
 - 🎨 **Dark theme UI** with modern design using shadcn/ui components
